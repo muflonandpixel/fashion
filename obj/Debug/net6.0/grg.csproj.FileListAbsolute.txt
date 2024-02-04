@@ -1,0 +1,15 @@
+C:\Users\Vova\Desktop\grg\bin\Debug\net6.0\grg.exe
+C:\Users\Vova\Desktop\grg\bin\Debug\net6.0\grg.deps.json
+C:\Users\Vova\Desktop\grg\bin\Debug\net6.0\grg.runtimeconfig.json
+C:\Users\Vova\Desktop\grg\bin\Debug\net6.0\grg.dll
+C:\Users\Vova\Desktop\grg\bin\Debug\net6.0\grg.pdb
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.csproj.AssemblyReference.cache
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.AssemblyInfoInputs.cache
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.AssemblyInfo.cs
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.csproj.CoreCompileInputs.cache
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.dll
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\refint\grg.dll
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.pdb
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\grg.genruntimeconfig.cache
+C:\Users\Vova\Desktop\grg\obj\Debug\net6.0\ref\grg.dll
